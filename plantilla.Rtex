@@ -118,19 +118,19 @@
 % Title and author
 \title{	
     \begin{center}
-        \includegraphics[width=3cm]{cimat-logo.png} % Adjust size as needed
+        \includegraphics[width=3cm]{figure/cimat-logo.png} % Adjust size as needed
     \end{center}
     \vspace{0.5cm}
     \normalfont \normalsize 
     \textbf{\Large   Centro de Investigación en Matemáticas} \\
     \Large Unidad Monterrey \\ [25pt] 
     \horrule{1pt} \\[0.4cm] % Thin top horizontal rule
-    \huge TÍTULO DE LA MATERIA\\
-    \huge TÍTULO DE LA TAREA \\ 
+    \huge Cómputo Estadístico\\
+    \Large Mezclas Gaussianas \\ 
     \horrule{2pt} \\[0.5cm] % Thick bottom horizontal rule
 }
 
-\author{\large TU NOMBRE COMPLETO}    
+\author{\large Kirby Bolita Rosa}    
 
 \date{\normalsize\today} % Today's date
 
@@ -190,7 +190,7 @@ Interpretación de los resultados...
 
 Solución del segundo inciso...
 
-<<problema1b, fig.cap="Gráfico de ejemplo", fig.height=4, fig.width=6>>=
+<<problema1b, fig.cap="Gráfico de ejemplo", fig.height=4, fig.width=6, fig.pos="H">>=
 # Código para generar gráfico
 ggplot(datos, aes(x = x, y = y)) +
   geom_point() +
