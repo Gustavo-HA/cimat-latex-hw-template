@@ -69,7 +69,7 @@ CIMAT styling                  # Colores y formato institucional
 
 ## 📚 Recursos Adicionales
 
-- [Chunck options]([https://yihui.org/knitr/](https://yihui.org/knitr/options/)): Importantes para obtener el resultado deseado en cada celda de código.
+- [Chunck options](https://yihui.org/knitr/](https://yihui.org/knitr/options/): Importantes para obtener el resultado deseado en cada celda de código.
 
 ---
 *Plantilla creada para CIMAT - Cómputo Estadístico*
