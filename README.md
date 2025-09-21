@@ -69,9 +69,7 @@ CIMAT styling                  # Colores y formato institucional
 
 ## 📚 Recursos Adicionales
 
-- [Documentación knitr](https://yihui.org/knitr/)
-- [KOMA-Script Guide](https://ctan.org/pkg/koma-script)
-- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [Chunck options]([https://yihui.org/knitr/](https://yihui.org/knitr/options/)): Importantes para obtener el resultado deseado en cada celda de código.
 
 ---
 *Plantilla creada para CIMAT - Cómputo Estadístico*
