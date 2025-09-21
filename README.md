@@ -8,7 +8,6 @@ Esta es una plantilla completa para trabajos académicos con R y LaTeX, optimiza
 ```
 tarea_plantilla.Rtex       # Documento principal (LaTeX + R)
 cimat-logo.png            # Logo institucional
-compile_fast.sh           # Script de compilación optimizada
 bib.bib                   # Referencias bibliográficas
 ```
 
