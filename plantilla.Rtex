@@ -143,7 +143,6 @@
 \newpage
 
 <<setup, include=FALSE>>=
-# Configuración global de knitr para mejorar SyncTeX y velocidad
 library(knitr)
 opts_knit$set(concordance = TRUE)
 opts_chunk$set(

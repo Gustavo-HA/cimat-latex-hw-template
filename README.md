@@ -13,7 +13,7 @@ bib.bib                   # Referencias bibliográficas
 
 ### 🟡 Recomendados
 ```
-latexmkrc                 # Configuración para latexmk
+latexmkrc                 # Configuración para latexmk (zona horaria)
 ```
 
 ### 🟢 Opcionales
@@ -24,10 +24,9 @@ IEEEtran.cls             # Clase IEEE (si se necesita)
 ```
 
 ## **Personalización**
-Editar en `mi-documento.Rtex`:
-- **Título**: Líneas 133-138
-- **Autor**: Línea 142
-- **Fecha**: Línea 144
+Editar en `plantilla.Rtex`:
+- **Título**: Líneas 119-131
+- **Autor**: Línea 42 & 133
 - **Contenido**: Reemplazar problemas existentes
 
 
@@ -65,6 +64,16 @@ spanish babel                  # Idioma español
 CIMAT styling                  # Colores y formato institucional
 ```
 
+## Imagenes de Ejemplo
+
+### Vista de la Portada
+![Portada](figure/template/portada.png)
+
+### Vista del Índice
+![Índice](figure/template/indice.png)
+
+### Ejemplo de Problema
+![Problema](figure/template/problema.png)
 
 ## 📚 Recursos Adicionales
 
